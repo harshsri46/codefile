@@ -1,0 +1,6 @@
+C:\wipro\InvokeDynamically\bin\Debug\InvokeDynamically.dll
+C:\wipro\InvokeDynamically\bin\Debug\InvokeDynamically.pdb
+C:\wipro\InvokeDynamically\obj\Debug\InvokeDynamically.csproj.AssemblyReference.cache
+C:\wipro\InvokeDynamically\obj\Debug\InvokeDynamically.csproj.CoreCompileInputs.cache
+C:\wipro\InvokeDynamically\obj\Debug\InvokeDynamically.dll
+C:\wipro\InvokeDynamically\obj\Debug\InvokeDynamically.pdb

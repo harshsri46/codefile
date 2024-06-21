@@ -1,0 +1,6 @@
+C:\wipro\RetrivingData\bin\Debug\RetrivingData.dll
+C:\wipro\RetrivingData\bin\Debug\RetrivingData.pdb
+C:\wipro\RetrivingData\obj\Debug\RetrivingData.csproj.AssemblyReference.cache
+C:\wipro\RetrivingData\obj\Debug\RetrivingData.csproj.CoreCompileInputs.cache
+C:\wipro\RetrivingData\obj\Debug\RetrivingData.dll
+C:\wipro\RetrivingData\obj\Debug\RetrivingData.pdb

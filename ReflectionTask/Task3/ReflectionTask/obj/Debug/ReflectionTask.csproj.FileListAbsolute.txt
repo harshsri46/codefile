@@ -1,0 +1,7 @@
+C:\wipro\ReflectionTask\bin\Debug\ReflectionTask.exe.config
+C:\wipro\ReflectionTask\bin\Debug\ReflectionTask.exe
+C:\wipro\ReflectionTask\bin\Debug\ReflectionTask.pdb
+C:\wipro\ReflectionTask\obj\Debug\ReflectionTask.csproj.AssemblyReference.cache
+C:\wipro\ReflectionTask\obj\Debug\ReflectionTask.csproj.CoreCompileInputs.cache
+C:\wipro\ReflectionTask\obj\Debug\ReflectionTask.exe
+C:\wipro\ReflectionTask\obj\Debug\ReflectionTask.pdb

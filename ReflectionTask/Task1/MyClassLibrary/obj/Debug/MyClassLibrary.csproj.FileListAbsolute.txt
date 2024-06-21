@@ -1,0 +1,6 @@
+C:\wipro\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\wipro\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\wipro\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+C:\wipro\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\wipro\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\wipro\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
