@@ -1,0 +1,7 @@
+C:\wipro\HTML&CSS\bin\Debug\HTML&CSS.exe.config
+C:\wipro\HTML&CSS\bin\Debug\HTML&CSS.exe
+C:\wipro\HTML&CSS\bin\Debug\HTML&CSS.pdb
+C:\wipro\HTML&CSS\obj\Debug\HTML&CSS.csproj.AssemblyReference.cache
+C:\wipro\HTML&CSS\obj\Debug\HTML&CSS.csproj.CoreCompileInputs.cache
+C:\wipro\HTML&CSS\obj\Debug\HTML&CSS.exe
+C:\wipro\HTML&CSS\obj\Debug\HTML&CSS.pdb
